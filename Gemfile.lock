@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    concurrent-ruby (1.1.7)
+    concurrent-ruby (1.1.10)
     connection_pool (2.3.0)
     faraday (2.7.2)
       faraday-net_http (>= 2.0, < 3.1)
